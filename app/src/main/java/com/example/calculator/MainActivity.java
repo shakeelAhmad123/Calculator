@@ -250,6 +250,8 @@ public class MainActivity extends AppCompatActivity {
                     result1 = Float.parseFloat(result_tv.getText()+"");
                     multiply = true;
                     result_tv.setText(null);
+
+                    /* this sharepreferecnec is done*/
                 }
 
             }
